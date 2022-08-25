@@ -23,4 +23,11 @@ Tools and Libraries
 *Python-3.x  
 *cv2-4.5.2  
 *numpy-1.20.3  
-*face_recognition-1.3.0  
+*face_recognition-1.3.0 
+
+Steps to develop face recognition model  
+1. Prepare the dataset - to create 2 directories, "train" and "test". "train" is to save the images you picked, "test" is for you to choose a picture containning all the images in "train".  
+2. Train the model  
+3. Test the model on the test dataset  
+4. Python face recognitionk output  
+
