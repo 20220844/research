@@ -3,7 +3,7 @@ Face-recognition
 
 What is Python used for? I was asking myself, that is my concern. Then, I searched Google.
 
-Python can be usde for  
+Python can be usde for:   
 AI and machine learning,  
 Data analytics,  
 Data visualisation, 
@@ -19,4 +19,8 @@ Suddenly, "Face-recognition" came into view. That is an interesting project whic
 It is a machine learning model that recofnizes the persons from an image.
 In this project, we use the face_recognition API and OpenCV.
 
-Tools and Libraries
+Tools and Libraries  
+*Python-3.x  
+*cv2-4.5.2  
+*numpy-1.20.3  
+*face_recognition-1.3.0  
