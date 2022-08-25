@@ -31,10 +31,11 @@ Steps to develop face recognition model
 3. Test the model on the test dataset  
 4. Python face recognitionk output  
 
-Details will be shown in Python file for coding. I have also showed the output but it seems not quite successful. The computer only recognized one person out of six in the picture. Problems came out. Why? Google search again.  
+Details will be shown in Python file for coding. I have also showed the output but it seems not quite successful. The computer only recognized one person out of six in the picture. Problems came out. Why? Google search again. 
+
 Reasons may be as follows,  
 1. Windows is not offically supported this face_recogniton model, as mentioned it might work.  
 2. The images that selected do not show the features of the faces well enouth for the classifier. The funny thing is that I tried to recognize the people in the picture by myself but it is even a bit difficult for me to distinguish each other, haha...  
-3. My friend reminded me to check the CPU usage while running the program, maybe there was not enough memory. I tried it, it showed 26% when running the program.  
+3. My friend reminded me to check the CPU usage while running the program, maybe there was not enough memory. I tried it, it showed 26% which looked good.   
 
-
+So, it is still a chanllege for me to seek the resolution. Anyway, it is really a fantastic experience to explore an uncharted territory.
