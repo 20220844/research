@@ -1,3 +1,11 @@
+#To install the numpy opencv-python
+#pip install numpy opencv-python  
+#To install the face_recognition, install the dlib package first.  
+#pip install dlib  
+#To install face_recognition module using the below command.  
+#pip install face_recognition
+
+
 
 import face_recognition as fr
 import cv2
