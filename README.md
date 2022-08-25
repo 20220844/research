@@ -17,6 +17,8 @@ Python can be usde for:
 
 Suddenly, "Face-recognition" came into view. That is an interesting project which I desired to give insight into.
 It is a machine learning model that recofnizes the persons from an image.
+The method is used to locate features in the image that are uniquely specified.
+Face recognition involves 3 steps: face detection, feature extraction, face recognition.
 In this project, we use the face_recognition API and OpenCV.
 
 Tools and Libraries  
