@@ -16,3 +16,7 @@ SEO (search engine optmisation),
 Design.
 
 Suddenly, "Face-recognition" came into view. That is an interesting project which I desired to give insight into.
+It is a machine learning model that recofnizes the persons from an image.
+In this project, we use the face_recognition API and OpenCV.
+
+Tools and Libraries
